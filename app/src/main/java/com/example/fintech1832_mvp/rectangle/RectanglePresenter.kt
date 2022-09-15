@@ -1,4 +1,4 @@
-package com.example.fintech_6mvp.rectangle
+package com.example.fintech1832_mvp.rectangle
 
 class RectanglePresenter( private val rectangleView: RectangleActivity) {
 

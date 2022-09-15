@@ -1,11 +1,11 @@
-package com.example.fintech_6mvp.square
+package com.example.fintech1832_mvp.square
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import com.example.fintech_6mvp.R
+import com.example.fintech1832_mvp.R
 
 class SquareActivity : AppCompatActivity() {
     private lateinit var eTxtSisi:        EditText

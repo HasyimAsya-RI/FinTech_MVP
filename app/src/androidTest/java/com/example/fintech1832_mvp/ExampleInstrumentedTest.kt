@@ -1,4 +1,4 @@
-package com.example.fintech_6mvp
+package com.example.fintech1832_mvp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

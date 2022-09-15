@@ -1,4 +1,4 @@
-package com.example.fintech_6mvp.square
+package com.example.fintech1832_mvp.square
 
 interface SquareView {
     fun showError       ( eror: String )

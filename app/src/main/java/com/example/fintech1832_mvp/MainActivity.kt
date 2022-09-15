@@ -1,11 +1,11 @@
-package com.example.fintech_6mvp
+package com.example.fintech1832_mvp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.fintech_6mvp.rectangle.RectangleActivity
-import com.example.fintech_6mvp.square.SquareActivity
+import com.example.fintech1832_mvp.rectangle.RectangleActivity
+import com.example.fintech1832_mvp.square.SquareActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate( savedInstanceState: Bundle? ) {

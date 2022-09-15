@@ -1,11 +1,11 @@
-package com.example.fintech_6mvp.rectangle
+package com.example.fintech1832_mvp.rectangle
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-import com.example.fintech_6mvp.R
+import com.example.fintech1832_mvp.R
 
 class RectangleActivity : AppCompatActivity() {
     private lateinit var eTxtPanjang:        EditText

@@ -1,4 +1,4 @@
-package com.example.fintech_6mvp.square
+package com.example.fintech1832_mvp.square
 
 class SquarePresenter( private val squareView: SquareActivity) {
 
